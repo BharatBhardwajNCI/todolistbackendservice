@@ -1,0 +1,5 @@
+org\deloitte\onlineToDoList\repositories\TodoRepository.class
+org\deloitte\onlineToDoList\config\ExposeEntityIdRestConfiguration.class
+org\deloitte\onlineToDoList\TodoApp.class
+org\deloitte\onlineToDoList\models\Todo.class
+org\deloitte\onlineToDoList\config\ExposeEntityIdRestConfiguration$1.class
